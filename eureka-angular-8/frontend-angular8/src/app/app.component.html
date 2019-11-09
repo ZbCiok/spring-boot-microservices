@@ -1,0 +1,53 @@
+<div class="container">
+    <h1>Spring Boot Microservices Example</h1>
+    <br />
+
+    <h3>Adding</h3>
+
+    <form [formGroup]="addingForm" (ngSubmit)="onAddingSubmit(addingForm)">
+
+        <div class="form-group">
+            <label>Nr 1: </label>
+            <input type="text" formControlName="nr1" />
+        </div>
+
+        <div class="form-group">
+            <label>Nr 2: </label>
+            <input type="text" formControlName="nr2" />
+        </div>
+        <br />
+
+        <div class="form-group">
+            <div *ngIf="((addingForm.controls.nr1.value != '') && (addingForm.controls.nr2.value != ''))">
+                <button class="btn btn-primary">Add</button>
+            </div>
+        </div>
+    </form>
+    <br />
+
+    {{addingResultStr}}
+    <br />
+    <hr>
+    <h3>Subtraction</h3>
+
+    <form [formGroup]="subtractForm" (ngSubmit)="onSubtractSubmit(subtractForm)">
+        <div class="form-group">
+            <label>Nr 1: </label>
+            <input type="text" formControlName="nr1" />
+        </div>
+
+        <div class="form-group">
+            <label>Nr 2: </label>
+            <input type="text" formControlName="nr2" />
+        </div>
+        <br />
+
+        <div class="form-group">
+            <div *ngIf="((subtractForm.controls.nr1.value != '') && (subtractForm.controls.nr2.value != ''))">
+                <button class="btn btn-primary">Subtract</button>
+            </div>
+        </div>
+    </form>
+    <br />
+    {{subtractResultStr}}
+</div>
