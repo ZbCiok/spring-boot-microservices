@@ -8,6 +8,8 @@ Example illustrating collaboration: Eureka (microservice detection and registrat
 *eureka-service, addition-service, subtraction-service:*<br/>
 mvn clean install<br/>
 mvn spring-boot:run
+<br/><br/>
+After that you should see:
 
 ## Launch Fronted
 
