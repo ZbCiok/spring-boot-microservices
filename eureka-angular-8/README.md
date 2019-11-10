@@ -13,7 +13,7 @@ After that you should see:
 
 ![](frontend-angular8/src/assets/pic-02-eureka.png?raw=true?style=centerme)
 
-## Launch Fronted
+## Launch Frontend
 npm install<br/>
 ng serve
 <br/><br/>
