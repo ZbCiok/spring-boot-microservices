@@ -4,9 +4,8 @@ Example illustrating collaboration: Eureka (microservice detection and registrat
 
 ![](frontend-angular8/src/assets/pic-01-microserv.png?raw=true?style=centerme)
 
-## Launch
-### Backend
-eureka-service, addition-service, subtraction-service:
+## Launch Backend
+*eureka-service, addition-service, subtraction-service:*
 mvn clean install
 mvn spring-boot:run
 
