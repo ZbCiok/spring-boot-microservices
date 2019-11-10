@@ -18,5 +18,7 @@ npm install<br/>
 ng serve
 <br/><br/>
 
+![](frontend-angular8/src/assets/pic-03-client.png?raw=true?style=centerme
+)
 
 
