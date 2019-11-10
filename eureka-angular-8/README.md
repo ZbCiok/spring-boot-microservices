@@ -11,7 +11,12 @@ mvn spring-boot:run
 <br/><br/>
 After that you should see:
 
-## Launch Fronted
+![](frontend-angular8/src/assets/pic-02-eureka.png?raw=true?style=centerme)
+
+## Launch Frontend
+npm install<br/>
+ng serve
+<br/><br/>
 
 
 
