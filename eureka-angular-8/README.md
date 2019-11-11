@@ -4,7 +4,7 @@ Example illustrating collaboration: Eureka (microservice detection and registrat
 
 ![](frontend-angular8/src/assets/pic-01-microserv.png?raw=true?style=centerme)
 
-## Launch Backend
+## Launching Backend
 *eureka-service, addition-service, subtraction-service:*<br/>
 *(**first eureka-service**)*<br/>
 mvn clean install<br/>
@@ -14,7 +14,7 @@ After that you should see:
 
 ![](frontend-angular8/src/assets/pic-02-eureka.png?raw=true?style=centerme)
 
-## Launch Frontend
+## Launching Frontend
 npm install<br/>
 ng serve
 <br/><br/>
