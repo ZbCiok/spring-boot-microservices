@@ -6,6 +6,7 @@ Example illustrating collaboration: Eureka (microservice detection and registrat
 
 ## Launch Backend
 *eureka-service, addition-service, subtraction-service:*<br/>
+*(**first eureka-service**)*<br/>
 mvn clean install<br/>
 mvn spring-boot:run
 <br/><br/>
@@ -18,5 +19,7 @@ npm install<br/>
 ng serve
 <br/><br/>
 
+![](frontend-angular8/src/assets/pic-03-client.png?raw=true?style=centerme
+)
 
 
