@@ -1,2 +1,2 @@
 See:<br />
-![](https://zbciok.eu/java/index.php/2019/11/14/microservices-spring-config-server/).
+[zbciok.eu](https://zbciok.eu/java/index.php/2019/11/14/microservices-spring-config-server/).
