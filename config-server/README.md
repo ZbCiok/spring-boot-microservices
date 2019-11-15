@@ -1,1 +1,2 @@
-This site was built using [GitHub Pages](https://pages.github.com/).
+See:<br />
+[](https://zbciok.eu/java/index.php/2019/11/14/microservices-spring-config-server/).
