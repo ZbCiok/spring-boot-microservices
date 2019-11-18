@@ -10,7 +10,5 @@
 * mvn spring-boot:run
 ##### 3. Configuring config-server
 * *[ config-server-configuration/configuration/staffing-service.properties ](https://github.com/ZbCiok/config-server-configuration/blob/master/configuration/staffing-service.properties)*
-* *http://localhost:8081/job-categories/showConfig*
-* ![](src/main/resources/img/showConfig-01.png?raw=true?style=centerme
 * *http://localhost:8081/job-categories/showConfig*:<br><br>
 ![](src/main/resources/img/showConfig-01.png?raw=true?style=centerme)
