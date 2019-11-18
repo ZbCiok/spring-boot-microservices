@@ -11,4 +11,4 @@
 ##### 3. Configuration using staffing-service
 * *[ config-server-configuration/configuration/staffing-service.properties ](https://github.com/ZbCiok/config-server-configuration/blob/master/configuration/staffing-service.properties)*
 * *http://localhost:8081/job-categories/showConfig*
-* ![](staffing-service/src/main/resources/img/showConfig-01.png?raw=true?style=centerme)
+* ![](src/main/resources/img/showConfig-01.png?raw=true?style=centerme)
