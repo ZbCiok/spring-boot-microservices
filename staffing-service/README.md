@@ -1,6 +1,6 @@
 # staffing-service
 ## *(Config Server Client with CRUD H2 Example)*
-### Lounching
+### Launching
 ##### 1. Run Config Server
 * mvn clean install
 * mvn spring-boot:run
